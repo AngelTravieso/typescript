@@ -4,3 +4,5 @@ let cualquierValor:any = 'Cualquier cosa';
 let largoString:number = (<string>cualquierValor).length;
 
 console.log(largoString);
+
+export {};

@@ -1,5 +1,6 @@
 "use strict";
 // any puede ser cualquier cosa
+Object.defineProperty(exports, "__esModule", { value: true });
 let vengador = 'Superman';
 let existe;
 let derrotas;

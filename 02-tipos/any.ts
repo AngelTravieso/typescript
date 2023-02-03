@@ -15,3 +15,5 @@ console.log(vengador);
 
 console.log(existe);
 console.log(derrotas);
+
+export {};

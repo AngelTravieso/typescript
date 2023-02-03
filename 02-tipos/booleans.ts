@@ -25,3 +25,4 @@ function convertirClark() {
     return false;
 }
 
+export {};

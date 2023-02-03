@@ -3,3 +3,5 @@ function error(mensaje: string): never {
 }
 
 error('Error critico...linea 5');
+
+export {};

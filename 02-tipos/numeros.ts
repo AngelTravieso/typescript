@@ -19,3 +19,5 @@ otros =123.423;
 
 // No se puede cambiar el tipo
 // otros = '1234';
+
+export {};

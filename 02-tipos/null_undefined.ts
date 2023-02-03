@@ -7,3 +7,5 @@ ironman = 'Tony';
 
 // Error
 // ironman = undefined;
+
+export {};

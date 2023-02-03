@@ -7,3 +7,5 @@ function llamarBatman():void {
 let mensaje = llamarBatman();
 
 console.log(mensaje);
+
+export {};

@@ -13,3 +13,5 @@ console.log(Volumen);
 
 // obtener key
 console.log(Volumen[5]);
+
+export {};

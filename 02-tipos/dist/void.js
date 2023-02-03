@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // nombre():tipo_retorno
 function llamarBatman() {
     console.log('Mostrar batiseñal');

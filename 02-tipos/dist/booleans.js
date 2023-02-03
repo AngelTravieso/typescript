@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // nombre:tipo = valor
 let esSuperman = true;
 // Sin asignar valor

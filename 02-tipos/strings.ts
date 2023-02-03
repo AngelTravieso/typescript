@@ -9,3 +9,5 @@ console.log(volcanNegro);
 let concatenar:string = `Los héroes son ${batman}, ${linternaVerde}, ${volcanNegro}`;
 
 console.log(concatenar);
+
+export {};

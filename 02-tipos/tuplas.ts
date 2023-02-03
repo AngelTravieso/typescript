@@ -6,3 +6,5 @@ let heroes:[string, number, boolean] = ['Dr. Strange', 100, true];
 // heroes[1] = "123";
 
 heroes.push(true);
+
+export {};

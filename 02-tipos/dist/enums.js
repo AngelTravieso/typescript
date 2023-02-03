@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var Volumen;
 (function (Volumen) {
     Volumen[Volumen["min"] = 1] = "min";
