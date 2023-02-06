@@ -27,3 +27,5 @@ let miFuncion: () => void;
 
 miFuncion = salvarMundo;
 miFuncion();
+
+export {};
