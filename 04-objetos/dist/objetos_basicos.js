@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+//nombreObjeto:tipo
 let flash = {
     nombre: "Barry Allen",
     edad: 24,
