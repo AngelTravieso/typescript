@@ -10,6 +10,14 @@ type Heroe = { // definicion de tipo
 let loquesea: string | number | Heroe = "Angel";
 loquesea = 10;
 
+let cosa:any = 123;
+
+if(typeof cosa === "number") {
+    console.log("Cosa, es un numero");
+} else {
+    console.log("Este codigo, indica que no es un string");
+}
+
 //nombreObjeto:tipo
 let flash: Heroe = {
     nombre: "Barry Allen",
@@ -43,4 +51,4 @@ let superman: Heroe = {
 flash.getNombre();
 
 
-export { };
+export {};

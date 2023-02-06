@@ -3,6 +3,13 @@ Object.defineProperty(exports, "__esModule", { value: true });
 // multiples tipos permitidos
 let loquesea = "Angel";
 loquesea = 10;
+let cosa = 123;
+if (typeof cosa === "number") {
+    console.log("Cosa, es un numero");
+}
+else {
+    console.log("Este codigo, indica que no es un string");
+}
 //nombreObjeto:tipo
 let flash = {
     nombre: "Barry Allen",
