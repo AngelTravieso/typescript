@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // Parámetros obligatorios
 function nombreCompleto(nombre, apellido) {
     return `${nombre} ${apellido}`;

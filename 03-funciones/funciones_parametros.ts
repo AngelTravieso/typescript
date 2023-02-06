@@ -36,3 +36,5 @@ let nombre3 = nombreCompleto2("clark", "kent");
 console.log(nombre);
 console.log(nombre2);
 console.log(nombre3);
+
+export {}
